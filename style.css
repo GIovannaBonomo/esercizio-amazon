@@ -117,7 +117,7 @@ h1 {margin-top: 50px;}
     width: 25%;
     margin: 10px;
 }
-#ratio-box {
+.ratio-box {
     display: flex;
 }
 .box2 h3 {
